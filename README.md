@@ -1,12 +1,11 @@
-# FastAPI Tutorial
+# FastAPI Tutoria
 
 This repository logs my simple follow along of
 [FastAPI](https://fastapi.tiangolo.com/)'s documentation.
 
 **LEFT OFF:**
 
-I last left off
-[here](https://fastapi.tiangolo.com/tutorial/path-params-numeric-validations/).
+I last left off [here](https://fastapi.tiangolo.com/tutorial/extra-models/).
 
 **TODO:**
 
