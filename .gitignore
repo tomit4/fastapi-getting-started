@@ -1,2 +1,4 @@
 *.env
 *.vim
+env/
+__pycache__
