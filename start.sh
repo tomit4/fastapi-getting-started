@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 
-fastapi dev app/main.py
+source ./env/bin/activate &&
+    fastapi dev app/main.py

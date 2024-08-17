@@ -5,7 +5,7 @@ This repository logs my simple follow along of
 
 **LEFT OFF:**
 
-I last left off [here](https://fastapi.tiangolo.com/tutorial/extra-models/).
+I last left off [here](https://fastapi.tiangolo.com/tutorial/security/).
 
 **TODO:**
 
