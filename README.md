@@ -1,4 +1,4 @@
-# FastAPI Tutoria
+# FastAPI Tutorial
 
 This repository logs my simple follow along of
 [FastAPI](https://fastapi.tiangolo.com/)'s documentation.
