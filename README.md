@@ -5,7 +5,13 @@ This repository logs my simple follow along of
 
 **LEFT OFF:**
 
-I last left off [here](https://fastapi.tiangolo.com/tutorial/background-tasks/).
+I last left off
+[here](https://fastapi.tiangolo.com/tutorial/debugging/#run-your-code-with-your-debugger).
+
+**NOTE:**
+
+Since you use NeoVim, you'll need to look into debugging using that editor
+instead of following FastAPI's VSCode examples.
 
 **RESOURCES:**
 
